@@ -89,9 +89,7 @@ cd malaria-risk-prediction
 pip install -r requirements.txt
 ▶️ Run the Project
 python main.py
-📸 Sample Output
 
-(Add screenshots of your graphs, dashboard, or predictions here)
 
 🤝 Contributing
 

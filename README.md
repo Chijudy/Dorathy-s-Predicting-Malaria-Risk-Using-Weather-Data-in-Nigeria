@@ -34,7 +34,7 @@ Time variables (Month, Year)
 🛠️ Tech Stack
 Python
 Pandas & NumPy – Data processing
-Matplotlib & Seaborn – Visualization
+Matplotlib & Seaborn – Visualisation
 Scikit-learn – Machine learning models
 🔍 Methodology
 1️⃣ Data Collection
@@ -84,7 +84,7 @@ R² Score
 └── README.md            # Project documentation
 ▶️ Getting Started
 🔧 Installation
-git clone https://github.com/your-username/malaria-risk-prediction.git
+git clone https://github.com/chijudy/malaria-risk-prediction.git
 cd malaria-risk-prediction
 pip install -r requirements.txt
 ▶️ Run the Project

@@ -1,0 +1,10 @@
+fastapi==0.111.1          # FastAPI framework
+uvicorn[standard]==0.23.2 # ASGI server to run FastAPI
+pydantic==2.6.0           # Data validation
+scikit-learn==1.3.1       # ML model (if your malaria_model.pkl uses sklearn)
+numpy==1.26.5             # ML model dependency
+pandas==2.1.1             # Optional: for data handling
+python-multipart==0.0.6   # Optional: if you accept file uploads
+python-dotenv==1.0.0      # Load environment variables from .env
+requests==2.32.0           # Optional: for any API requests
+fastapi-cors==0.1.1        # Optional: for CORS handling
